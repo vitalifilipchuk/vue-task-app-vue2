@@ -1,5 +1,7 @@
 # vue-task-app-vue2
 
+migrating my vue 3 task project to vue 2
+
 ## Project setup
 ```
 npm install
